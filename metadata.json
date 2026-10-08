@@ -1,0 +1,6 @@
+{
+  "name": "Q'mem Baltna · Authentic Habesha Spices",
+  "description": "Export-grade Ethiopian and Eritrean spices and foods. Hand-crafted from authentic Habesha recipes to export standards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
